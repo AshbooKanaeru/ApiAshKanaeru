@@ -1,0 +1,416 @@
+[
+{
+  "result": {
+    "judul": "Kukira Kau Rumah",
+    "durasi": 206711,
+    "url": "https://api.spotify.com/v1/tracks/1xdp8tXLTGbPeUSEODP9N7",
+    "artist": "Amigdala",
+    "preview": "https://p.scdn.co/mp3-preview/1e7b9cae973adbea047abaedf8ed600d03a4f641?cid=465e0591b8c047afa8baf5e977e60bd2"
+  }
+},
+{
+   "result": {
+    "judul": "Garis Tanpa Kait",
+    "durasi": 249586,
+    "url": "https://api.spotify.com/v1/tracks/5NvOZCjZaGGGL597exlQWv",
+    "artist": "Ricky Montgomery",
+    "preview": "https://p.scdn.co/mp3-preview/f33b9063e8da2ccbc4f842fdd4319ecdadfe5868?cid=465e0591b8c047afa8baf5e977e60bd2"
+  }
+},
+{
+  "result": {
+    "judul": "It's Only Me - Studio Version",
+    "durasi": 203075,
+    "url": "https://api.spotify.com/v1/tracks/2CoxJRIhTKvHyFIq9FcDO5",
+    "artist": "Kaleb J",
+    "preview": "https://p.scdn.co/mp3-preview/419fc8277ed14bb9f6d0b8e80cfce02f886cc47b?cid=465e0591b8c047afa8baf5e977e60bd2"
+  }
+},
+{
+  "result": {
+    "judul": "Runtuh",
+    "durasi": 223973,
+    "url": "https://api.spotify.com/v1/tracks/6Hii26x3qDErVitnGW8QtO",
+    "artist": "Feby Putri",
+    "preview": "https://p.scdn.co/mp3-preview/fd0fca9d5323c5637d8b92e3a90ddd44e9f93b7e?cid=465e0591b8c047afa8baf5e977e60bd2"
+  }
+},
+{
+  "result": {
+    "judul": "ELEVEN",
+    "durasi": 178453,
+    "url": "https://api.spotify.com/v1/tracks/7n2FZQsaLb7ZRfRPfEeIvr",
+    "artist": "IVE",
+    "preview": "https://p.scdn.co/mp3-preview/94fe1858a87063f9cb4e4e8546756c1f506138f8?cid=465e0591b8c047afa8baf5e977e60bd2"
+  }
+},
+{
+  "result": {
+    "judul": "Lantas",
+    "durasi": 234204,
+    "url": "https://api.spotify.com/v1/tracks/1ZPVEo8RfmrEz8YAD5n6rW",
+    "artist": "Juicy Luicy",
+    "preview": "https://p.scdn.co/mp3-preview/2d301046dd838f528dd4b8947f51dbda4b01dad3?cid=465e0591b8c047afa8baf5e977e60bd2"
+  }
+},
+{
+  "result": {
+    "judul": "Sahabat Dulu - From Layangan Putus",
+    "durasi": 243442,
+    "url": "https://api.spotify.com/v1/tracks/0zwz8FMlxFZXdnMHhLNvx5",
+    "artist": "Prinsa Mandagie",
+    "preview": "https://p.scdn.co/mp3-preview/2b4a06d3ac5bd1be8a15e83c33f9b2f3674c4322?cid=465e0591b8c047afa8baf5e977e60bd2"
+  }
+},
+{
+  "result": {
+    "judul": "Easy On Me",
+    "durasi": 224694,
+    "url": "https://api.spotify.com/v1/tracks/46IZ0fSY2mpAiktS3KOqds",
+    "artist": "Adele",
+    "preview": "https://p.scdn.co/mp3-preview/c5014be1aeb2ab5f129e2789eff3ea87ecd5027f?cid=465e0591b8c047afa8baf5e977e60bd2"
+  }
+},
+{
+  "result": {
+    "judul": "To the Bone",
+    "durasi": 344571,
+    "url": "https://api.spotify.com/v1/tracks/3pCt2wRdBDa2kCisIdHWgF",
+    "artist": "Pamungkas",
+    "preview": "https://p.scdn.co/mp3-preview/f631194408680475ab3ec8a91c461cc40d3990a0?cid=465e0591b8c047afa8baf5e977e60bd2"
+  }
+},
+{
+  "result": {
+    "judul": "keepyousafe",
+    "durasi": 261673,
+    "url": "https://api.spotify.com/v1/tracks/3Sbova9DAY3pc9GTAACT4b",
+    "artist": "Yahya",
+    "preview": "https://p.scdn.co/mp3-preview/ee969d77dcd34dec8a319ec0ed57bd399907bd7e?cid=465e0591b8c047afa8baf5e977e60bd2"
+  }
+},
+{
+  "result": {
+    "judul": "Dandelions",
+    "durasi": 233720,
+    "url": "https://api.spotify.com/v1/tracks/2eAvDnpXP5W0cVtiI0PUxV",
+    "artist": "Ruth B.",
+    "preview": "https://p.scdn.co/mp3-preview/de039809a674d90a5ebe377c054556ecbcf8b9b1?cid=465e0591b8c047afa8baf5e977e60bd2"
+  }
+},
+{
+  "result": {
+    "judul": "Here's Your Perfect",
+    "durasi": 158594,
+    "url": "https://api.spotify.com/v1/tracks/2aTKrdenCq5qBOoJPFdn4P",
+    "artist": "Jamie Miller",
+    "preview": "https://p.scdn.co/mp3-preview/569bf345055a8b510a2864ad16574d16a5d744c1?cid=465e0591b8c047afa8baf5e977e60bd2"
+  }
+},
+{
+  "result": {
+    "judul": "double take",
+    "durasi": 171743,
+    "url": "https://api.spotify.com/v1/tracks/0QzuaeCEEOV40Pn7IvKEny",
+    "artist": "dhruv",
+    "preview": "https://p.scdn.co/mp3-preview/3e56a14d06d1b7751b845c9512eade487b392d90?cid=465e0591b8c047afa8baf5e977e60bd2"
+  }
+},
+{
+  "result": {
+    "judul": "Bagaimana Kalau Aku Tidak Baik Baik Saja",
+    "durasi": 232460,
+    "url": "https://api.spotify.com/v1/tracks/7As3vd7OvJwyGUsZfNtHce",
+    "artist": "Judika",
+    "preview": "https://p.scdn.co/mp3-preview/fe8ebc82d22d71bdc92736c30065c5e56c23dc2f?cid=465e0591b8c047afa8baf5e977e60bd2"
+  }
+},
+{
+  "result": {
+    "judul": "Pelangi",
+    "durasi": 217626,
+    "url": "https://api.spotify.com/v1/tracks/5BgZ1bi8xeWVxmg12RfWzv",
+    "artist": "Hivi!",
+    "preview": "https://p.scdn.co/mp3-preview/28a03a1113a2038f3dd1697fa8dc0e76e5f9dc73?cid=465e0591b8c047afa8baf5e977e60bd2"
+  }
+},
+{
+  "result": {
+    "judul": "I Love You So",
+    "durasi": 160239,
+    "url": "https://api.spotify.com/v1/tracks/4SqWKzw0CbA05TGszDgMlc",
+    "artist": "The Walters",
+    "preview": "https://p.scdn.co/mp3-preview/71e46124927f40489d15d9208b449262da6c1fa5?cid=465e0591b8c047afa8baf5e977e60bd2"
+  }
+},
+{
+  "result": {
+    "judul": "Bahaya",
+    "durasi": 260000,
+    "url": "https://api.spotify.com/v1/tracks/7Df6aulkKFTjt1s84joBQW",
+    "artist": "Arsy Widianto",
+    "preview": null
+  }
+},
+{
+  "result": {
+    "judul": "STAY (with Justin Bieber)",
+    "durasi": 141805,
+    "url": "https://api.spotify.com/v1/tracks/5PjdY0CKGZdEuoNab3yDmX",
+    "artist": "The Kid LAROI",
+    "preview": "https://p.scdn.co/mp3-preview/dd4d8d66b97b6edcb5358135e72620715e1449f9?cid=465e0591b8c047afa8baf5e977e60bd2"
+  }
+},
+{
+  "result": {
+    "judul": "Aku Bukan Jodohnya",
+    "durasi": 244650,
+    "url": "https://api.spotify.com/v1/tracks/4YuzrUzwpTR8aRqLqepiFo",
+    "artist": "Tri Suaka",
+    "preview": "https://p.scdn.co/mp3-preview/ae518eec7008602c0f7f5bccfb187fa902429c9f?cid=465e0591b8c047afa8baf5e977e60bd2"
+  }
+},
+{
+  "result": {
+    "judul": "Melawan Restu",
+    "durasi": 219896,
+    "url": "https://api.spotify.com/v1/tracks/6shEr6AgLBDlfYlax2UzzL",
+    "artist": "Mahalini",
+    "preview": "https://p.scdn.co/mp3-preview/2e7e92f103fe175a488c0dc670ee583fe9eeef64?cid=465e0591b8c047afa8baf5e977e60bd2"
+  }
+},
+{
+  "result": {
+    "judul": "Merasa Indah",
+    "durasi": 220250,
+    "url": "https://api.spotify.com/v1/tracks/3Ysf0Y3iu23mrDsVh1mdu0",
+    "artist": "Tiara Andini",
+    "preview": null
+  }
+},
+{
+  "result": {
+    "judul": "Roman Picisan",
+    "durasi": 301368,
+    "url": "https://api.spotify.com/v1/tracks/47SkuKc4Po0JInI0JTtO61",
+    "artist": "Hanin Dhiya",
+    "preview": "https://p.scdn.co/mp3-preview/883b0873177d43b71c310eed4768d0baee32ec98?cid=465e0591b8c047afa8baf5e977e60bd2"
+  }
+},
+{
+  "result": {
+    "judul": "Monokrom",
+    "durasi": 214567,
+    "url": "https://api.spotify.com/v1/tracks/4GfK1qOF3uBWidbPlTCQRL",
+    "artist": "Tulus",
+    "preview": "https://p.scdn.co/mp3-preview/d42e2fb4eb4bb83acf78af776bf9ff3d7772d85c?cid=465e0591b8c047afa8baf5e977e60bd2"
+  }
+},
+{
+  "result": {
+    "judul": "Secret Love Song (feat. Jason Derulo)",
+    "durasi": 249810,
+    "url": "https://api.spotify.com/v1/tracks/6KHL1En9v6iNWjcs44mcmU",
+    "artist": "Little Mix",
+    "preview": "https://p.scdn.co/mp3-preview/df0d46b0e4174bec0cb1827dcc901ccc9a000dc3?cid=465e0591b8c047afa8baf5e977e60bd2"
+  }
+},
+{
+  "result": {
+    "judul": "I Love You So",
+    "durasi": 160239,
+    "url": "https://api.spotify.com/v1/tracks/4SqWKzw0CbA05TGszDgMlc",
+    "artist": "The Walters",
+    "preview": "https://p.scdn.co/mp3-preview/71e46124927f40489d15d9208b449262da6c1fa5?cid=465e0591b8c047afa8baf5e977e60bd2"
+  }
+},
+{
+  "result": {
+    "judul": "W.H.U.T",
+    "durasi": 174000,
+    "url": "https://api.spotify.com/v1/tracks/4dtmj7X21gunWoQf98hW5L",
+    "artist": "Aisha Retno",
+    "preview": "https://p.scdn.co/mp3-preview/a2843ffb44a490899d951b5914c46ea9fbe06bc7?cid=465e0591b8c047afa8baf5e977e60bd2"
+  }
+},
+{
+  "result": {
+    "judul": "Here's Your Perfect",
+    "durasi": 158594,
+    "url": "https://api.spotify.com/v1/tracks/2aTKrdenCq5qBOoJPFdn4P",
+    "artist": "Jamie Miller",
+    "preview": "https://p.scdn.co/mp3-preview/569bf345055a8b510a2864ad16574d16a5d744c1?cid=465e0591b8c047afa8baf5e977e60bd2"
+  }
+},
+{
+  "result": {
+    "judul": "keepyousafe",
+    "durasi": 261673,
+    "url": "https://api.spotify.com/v1/tracks/3Sbova9DAY3pc9GTAACT4b",
+    "artist": "Yahya",
+    "preview": "https://p.scdn.co/mp3-preview/ee969d77dcd34dec8a319ec0ed57bd399907bd7e?cid=465e0591b8c047afa8baf5e977e60bd2"
+  }
+},
+{
+  "result": {
+    "judul": "Polaroid Love",
+    "durasi": 184601,
+    "url": "https://api.spotify.com/v1/tracks/5elW2CKSoqjYoJ32AGDxf1",
+    "artist": "ENHYPEN",
+    "preview": "https://p.scdn.co/mp3-preview/c3879719d55eb4c2993977ebff3fa2a86f50835b?cid=465e0591b8c047afa8baf5e977e60bd2"
+  }
+},
+{
+  "result": {
+    "judul": "happier",
+    "durasi": 175933,
+    "url": "https://api.spotify.com/v1/tracks/2tGvwE8GcFKwNdAXMnlbfl",
+    "artist": "Olivia Rodrigo",
+    "preview": null
+  }
+},
+{
+  "result": {
+    "judul": "Mesin Waktu",
+    "durasi": 262734,
+    "url": "https://api.spotify.com/v1/tracks/4ZX6ww7kJCABHIDQfy9Bmd",
+    "artist": "Budi Doremi",
+    "preview": "https://p.scdn.co/mp3-preview/64704943bba8a66da9e4638aa9ca2eaa2a624040?cid=465e0591b8c047afa8baf5e977e60bd2"
+  }
+},
+{
+  "result": {
+    "judul": "Give a Little Love",
+    "durasi": 183080,
+    "url": "https://api.spotify.com/v1/tracks/6dLx5pDteVW2PXbrjFboQd",
+    "artist": "The Como Brothers",
+    "preview": "https://p.scdn.co/mp3-preview/d08ceff1bb6ffb7a595f9215686fbb581cd8cbf8?cid=465e0591b8c047afa8baf5e977e60bd2"
+  }
+},
+{
+  "result": {
+    "judul": "I Love You So",
+    "durasi": 160239,
+    "url": "https://api.spotify.com/v1/tracks/4SqWKzw0CbA05TGszDgMlc",
+    "artist": "The Walters",
+    "preview": "https://p.scdn.co/mp3-preview/71e46124927f40489d15d9208b449262da6c1fa5?cid=465e0591b8c047afa8baf5e977e60bd2"
+  }
+},
+{
+  "result": {
+    "judul": "Here's Your Perfect",
+    "durasi": 158594,
+    "url": "https://api.spotify.com/v1/tracks/2aTKrdenCq5qBOoJPFdn4P",
+    "artist": "Jamie Miller",
+    "preview": "https://p.scdn.co/mp3-preview/569bf345055a8b510a2864ad16574d16a5d744c1?cid=465e0591b8c047afa8baf5e977e60bd2"
+  }
+},
+{
+  "result": {
+    "judul": "Christmas Tree",
+    "durasi": 209946,
+    "url": "https://api.spotify.com/v1/tracks/186NCtNk1tUYS7c2DxgJ7O",
+    "artist": "V",
+    "preview": "https://p.scdn.co/mp3-preview/988f5f4d75312c76a5bf86c7c3a047ab83800048?cid=465e0591b8c047afa8baf5e977e60bd2"
+  }
+},
+{
+  "result": {
+    "judul": "Takut",
+    "durasi": 319700,
+    "url": "https://api.spotify.com/v1/tracks/1qHddOZ7pwtmOsw0RmlKFx",
+    "artist": "Idgitaf",
+    "preview": "https://p.scdn.co/mp3-preview/0bac4fb940d169abb673d11c277a63b2e7fbff5c?cid=465e0591b8c047afa8baf5e977e60bd2"
+  }
+},
+{
+  "result": {
+    "judul": "Polaroid Love",
+    "durasi": 184601,
+    "url": "https://api.spotify.com/v1/tracks/5elW2CKSoqjYoJ32AGDxf1",
+    "artist": "ENHYPEN",
+    "preview": "https://p.scdn.co/mp3-preview/c3879719d55eb4c2993977ebff3fa2a86f50835b?cid=465e0591b8c047afa8baf5e977e60bd2"
+  }
+},
+{
+  "result": {
+    "judul": "Melawan Restu",
+    "durasi": 219896,
+    "url": "https://api.spotify.com/v1/tracks/6shEr6AgLBDlfYlax2UzzL",
+    "artist": "Mahalini",
+    "preview": "https://p.scdn.co/mp3-preview/2e7e92f103fe175a488c0dc670ee583fe9eeef64?cid=465e0591b8c047afa8baf5e977e60bd2"
+  }
+},
+{
+  "result": {
+    "judul": "Yang Terdalam",
+    "durasi": 199138,
+    "url": "https://api.spotify.com/v1/tracks/6HP1bbIqafhFCRwMw81c7G",
+    "artist": "Noah",
+    "preview": "https://p.scdn.co/mp3-preview/33b7c8479a65c6161473c77e4519fdb05c12149f?cid=465e0591b8c047afa8baf5e977e60bd2"
+  }
+},
+{
+  "result": {
+    "judul": "Give a Little Love",
+    "durasi": 183080,
+    "url": "https://api.spotify.com/v1/tracks/6dLx5pDteVW2PXbrjFboQd",
+    "artist": "The Como Brothers",
+    "preview": "https://p.scdn.co/mp3-preview/d08ceff1bb6ffb7a595f9215686fbb581cd8cbf8?cid=465e0591b8c047afa8baf5e977e60bd2"
+  }
+},
+{
+  "result": {
+    "judul": "Child",
+    "durasi": 211069,
+    "url": "https://api.spotify.com/v1/tracks/5HaYRuf3zAfCb8RSO9LLea",
+    "artist": "MARK",
+    "preview": "https://p.scdn.co/mp3-preview/4e232cdf241083795399200374ebefb357392181?cid=465e0591b8c047afa8baf5e977e60bd2"
+  }
+},
+{
+  "result": {
+    "judul": "Reckless",
+    "durasi": 203384,
+    "url": "https://api.spotify.com/v1/tracks/5ajjAnNRh8bxFvaVHzpPjh",
+    "artist": "Madison Beer",
+    "preview": "https://p.scdn.co/mp3-preview/993d3a35b7066c15a57dd2a000a9df95ab4e1fbc?cid=465e0591b8c047afa8baf5e977e60bd2"
+  }
+},
+{
+  "result": {
+    "judul": "ELEVEN",
+    "durasi": 178453,
+    "url": "https://api.spotify.com/v1/tracks/7n2FZQsaLb7ZRfRPfEeIvr",
+    "artist": "IVE",
+    "preview": "https://p.scdn.co/mp3-preview/94fe1858a87063f9cb4e4e8546756c1f506138f8?cid=465e0591b8c047afa8baf5e977e60bd2"
+  }
+},
+{
+  "result": {
+    "judul": "Takut",
+    "durasi": 319700,
+    "url": "https://api.spotify.com/v1/tracks/1qHddOZ7pwtmOsw0RmlKFx",
+    "artist": "Idgitaf",
+    "preview": "https://p.scdn.co/mp3-preview/0bac4fb940d169abb673d11c277a63b2e7fbff5c?cid=465e0591b8c047afa8baf5e977e60bd2"
+  }
+},
+{
+  "result": {
+    "judul": "Bagaimana Kalau Aku Tidak Baik Baik Saja",
+    "durasi": 232460,
+    "url": "https://api.spotify.com/v1/tracks/7As3vd7OvJwyGUsZfNtHce",
+    "artist": "Judika",
+    "preview": "https://p.scdn.co/mp3-preview/fe8ebc82d22d71bdc92736c30065c5e56c23dc2f?cid=465e0591b8c047afa8baf5e977e60bd2"
+  }
+},
+{
+  "result": {
+    "judul": "Runtuh",
+    "durasi": 223973,
+    "url": "https://api.spotify.com/v1/tracks/6Hii26x3qDErVitnGW8QtO",
+    "artist": "Feby Putri",
+    "preview": "https://p.scdn.co/mp3-preview/fd0fca9d5323c5637d8b92e3a90ddd44e9f93b7e?cid=465e0591b8c047afa8baf5e977e60bd2"
+  }
+}
+]
